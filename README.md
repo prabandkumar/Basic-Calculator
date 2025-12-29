@@ -23,4 +23,4 @@ Operator (+, -, *, /, %)
 
 Second number
 
-Then it performs the selected operation using conditional statements
+Then it performs the selected operation using conditional statements (if,elif,else)
