@@ -24,3 +24,12 @@ Operator (+, -, *, /, %)
 Second number
 
 Then it performs the selected operation using conditional statements (if,elif,else)
+
+# How to Run Locally
+1. Install Python 3.x
+
+2. download the repo
+
+3. Run:
+   python calculator_gui.py
+
