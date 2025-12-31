@@ -33,3 +33,7 @@ Then it performs the selected operation using conditional statements (if,elif,el
 3. Run:
    python calculator_gui.py
 
+## Screenshot
+![Calculator GUI](Screenshot.png)
+
+
