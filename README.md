@@ -36,4 +36,12 @@ Then it performs the selected operation using conditional statements (if,elif,el
 ## Screenshot
 ![Calculator GUI](Screenshot.png)
 
+## Web Version (Live Demo)
+
+This project started as a Python calculator and was later extended into
+a web-based calculator using HTML, CSS, and JavaScript.
+
+Live Demo: https://prabandkumar.github.io/Basic-Calculator/
+
+
 
